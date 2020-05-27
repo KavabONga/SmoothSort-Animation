@@ -1,2 +1,2 @@
 # SmoothSort-Animation
-A simple webpage, which represents how Smooth Sort algorithm works
+A simple webpage that shows how Smooth Sort algorithm works (with scuffed design & animation)
